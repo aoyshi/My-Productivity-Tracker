@@ -3,7 +3,7 @@ Minimalist Java desktop app to track one's productivity throughout the day, usin
 
 ![App Use Instance SnapShot](https://github.com/aoyshi/My-Productivity-Tracker/blob/master/ScreenShots/app.png)
 
-Main Features:
+# Main Features:
 
 1. Pressing between 'Start Working' and 'Stop Working' makes you clock in when you're working vs procrastinating.
 2. Dynamic piechart of the percentage of time you wasted vs utilized helps you visualize how you're doing.
@@ -22,7 +22,7 @@ Main Features:
 1. JavaFX
 2. Java 8.0
 3. NetBeans 8.2
-4. Download the gluon theme (charm-glisten-4.4.1.jar) from [here](http://nexus.gluonhq.com/nexus/content/repositories/releases/com/gluonhq/charm-glisten/4.4.1/)
+4. Gluon theme (charm-glisten-4.4.1.jar) from [here](http://nexus.gluonhq.com/nexus/content/repositories/releases/com/gluonhq/charm-glisten/4.4.1/)
 5. Windows 10
 
 # How to use as Desktop App:
@@ -35,4 +35,5 @@ Main Features:
 3. Optimize source code as I learn better programming practices.
 4. Build test cases
 5. Convert .jar file to desktop executable with customized app icon (launchj4?)
+
 
