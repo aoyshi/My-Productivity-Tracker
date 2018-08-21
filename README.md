@@ -1,7 +1,7 @@
 # My-Productivity-Tracker
 Minimalist Java desktop app to track one's productivity throughout the day, using simple timers, piecharts and stats to help you be more aware of the time you're doing what you should be doing, versus the time you waste. JavaFX GluonHQ GUI.
 
-![App Use Instance SnapShot](https://github.com/aoyshi/My-Productivity-Tracker/ScreenShots/blob/master/app.png)
+![App Use Instance SnapShot](https://github.com/aoyshi/My-Productivity-Tracker/blob/master/ScreenShots/app.png)
 
 Main Features:
 
@@ -14,9 +14,9 @@ Main Features:
 7. Mandatory log-in of wake-up time and bed-time forces you in a steady routine.
 8. Upon exiting, program saves relevant info about the session in a Progress_Info.txt file, used to generate Progress Reports to let you see how you're doing long-term. FYI : in order for progress report button to generate a report, progress info txt must have AT LEAST TWO records, i.e. data from two sessions.
 
-![Progress Report Stat SnapShot](https://github.com/aoyshi/My-Productivity-Tracker/ScreenShots/blob/master/progress.png)
+![Progress Report Stat SnapShot](https://github.com/aoyshi/My-Productivity-Tracker/blob/master/ScreenShots/progress.png)
 
-![Progress Line Graph SnapShot](https://github.com/aoyshi/My-Productivity-Tracker/ScreenShots/blob/master/report.png)
+![Progress Line Graph SnapShot](https://github.com/aoyshi/My-Productivity-Tracker/blob/master/ScreenShots/report.png)
 
 # Tools Used:
 1. JavaFX
